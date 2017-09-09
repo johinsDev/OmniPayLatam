@@ -1,0 +1,13 @@
+{
+  "name": "OmniPayLatam",
+  "version": "1.0.0",
+  "description": "Payments for latam APIS",
+  "main": "index.js",
+  "repository": "git@github.com:johinsDev/OmniPayLatam.git",
+  "author": "JohinsDev <johinsdev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "epayco-node": "0.0.4",
+    "lodash": "^4.17.4"
+  }
+}
